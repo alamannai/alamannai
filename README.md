@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alamannai
 - 👀 I’m interested in Artificial intelligence & Software Development
 - 🌱 My achievements : Python (Tensorflow / FastApi ) / PHP ( Symfony / Laravel ) / SQL / CSS ( Tailwindcss ) / JS ( React )
-- 🎷 I'm currently learning :  NodeJS ( Express ) / React Native
+- 🎷 I'm currently learning :  Python ( Django ) / React Native
 - 📫 How to reach me mannai17@outlook.fr
